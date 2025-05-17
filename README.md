@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Joslam Jerez👋</h1>
 </div>
 <p align="center">
-  <img src="muñeco tecnologico creativo.png" alt="Banner Joslam" width="800">
+  <img src="BannerNuevo.png" alt="Banner Joslam" width="800">
 </p>
 
 
