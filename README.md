@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy Joslam Jerez👋</h1>
 </div>
-<img src="muñeco tecnologico creativo.png" width="400" height="400">
+<p align="center">
+  <img src="muñeco tecnologico creativo.png" alt="Banner Joslam" width="800">
+</p>
+
 
 ## Sobre mi
 
