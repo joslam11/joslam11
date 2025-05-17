@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Joslam Jerez👋</h1>
+</div>
+<img src="muñeco tecnologico creativo.png">
 
-<!--
-**joslam11/joslam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+🎓 Estudiante de Tecnología en Desarrollo de Software en el ITLA.  
+💻 Apasionado por el backend, el desarrollo de APIs y el aprender cosas nuevas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que manejo:
+- C# / ASP.NET Core MVC
+- Entity Framework Core
+- HTML / CSS / JavaScript
+- Git y GitHub
+
+### 📌 Algunos proyectos:
+- Calculadora de derivadas en C#
+- API RESTful para gestión de tareas
+- CRUD con Entity Framework
+
+🎯 Buscando crecer como desarrollador fullstack y aprender más sobre DevOps, testing y buenas prácticas.
+
+📫 Puedes contactarme en:
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- Email: joslamjerezperez@gmail.com
+<br>
